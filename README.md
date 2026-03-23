@@ -14,7 +14,8 @@ You are required to help the manager to predict the right group of the new custo
 
 ## Neural Network Model
 
-Include the neural network model diagram.
+<img width="654" height="631" alt="image" src="https://github.com/user-attachments/assets/b28658d6-bb18-4cc8-8dc1-232443559f65" />
+
 
 ## DESIGN STEPS
 ### STEP 1: 
@@ -103,7 +104,8 @@ def train_model(model, train_loader, criterion, optimizer, epochs):
 
 ## Dataset Information
 
-Include screenshot of the dataset
+<img width="787" height="154" alt="image" src="https://github.com/user-attachments/assets/2106b8c6-d539-4834-8b91-10aec1b06ecb" />
+
 
 ## OUTPUT
 <img width="577" height="356" alt="image" src="https://github.com/user-attachments/assets/1931fb6c-17a7-4372-b23c-a709e4e839bc" />
